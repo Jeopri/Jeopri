@@ -20,7 +20,7 @@ counting of visitors to this page in this section started from March 17, 2025
 
 </div>
 
-## <p>🌍 About Me</p>
+## <p align="center">🌍 About Me</p>
 <br>
 <p>
 
