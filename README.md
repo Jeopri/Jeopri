@@ -12,9 +12,15 @@ counting of visitors to this page in this section started from March 17, 2025
 
 <br><br>
 
+
 ![](https://count.getloli.com/get/@Myzino.github.readme)
 
 <br><br>
+
+<div > 
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&vCenter=true&color=8A2BE2&width=600&lines=Welcome+to+my+github+profile!;Currently+Exploring+ML+Concepts.;Passionate+about+tech+and+innovation.;Lover+of+coffee+and+Sport+as+well+as+coding." />
+</div>
+
 </div>
 
 ## <p>🌍 About Me</p>
@@ -48,9 +54,7 @@ counting of visitors to this page in this section started from March 17, 2025
 
 
 </p>
-<div > 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&vCenter=true&color=8A2BE2&width=600&lines=Welcome+to+my+github+profile!;Currently+Exploring+ML+Concepts.;Passionate+about+tech+and+innovation.;Lover+of+coffee+and+Sport+as+well+as+coding." />
-</div>
+
 
 
 
