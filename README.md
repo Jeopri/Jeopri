@@ -3,23 +3,7 @@
   <img src="/assets/jep.gif" alt="Jeffrey">
   </a>
 </div>
-<<<<<<< HEAD
-=======
 
-<div>
-
-## 👤 Profile Views
-
-counting of visitors to this page in this section started from March 17, 2025
-
-<br><br>
-
-![](https://count.getloli.com/get/@Myzino.github.readme)
-
-<br><br>
-</div>
-
->>>>>>> e5ec28271f87a30cdf0f28947553cd20a062694d
 ## <p>🌍 About Me</p>
 <br>
 <p>
@@ -29,7 +13,7 @@ counting of visitors to this page in this section started from March 17, 2025
   <div>
     <img src="/assets/giphy.gif" alt="gif" align="right" width="200">
     <span>
-      😳 &emsp; Graduate with a Degree of Bachelor of Science in Information Technology<br/><br/>
+      🚀 &emsp; Passionate Software Developer, Analyst, and Tech Enthusiast with a degree in Bachelor of Science in Information Technology<br/><br/>
       💻 &emsp; Doing Full Stack Development <br/><br/>
       🧐 &emsp; Reach me anytime: jeffreysedoro5@gmail.com<br/><br/>
     </span>
